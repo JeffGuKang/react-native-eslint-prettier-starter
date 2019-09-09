@@ -4,7 +4,10 @@
   "private": true,
   "scripts": {
     "start": "react-native start",
-    "test": "jest"
+    "test": "jest",
+    "ios": "react-native run-ios",
+    "android": "react-native run-android",
+    "clean": "watchman watch-del-all && rm -rf $TMPDIR/react-* && rm -rf node_modules/ && npm cache verify && yarn && yarn start -- --reset-cache"
   },
   "dependencies": {
     "react": "16.8.6",
