@@ -1,5 +1,7 @@
 # react native eslint prettier starter
 
+## npx react-native init YourProject
+
 ## ESLint
 
 ESLint > 6 has error with `@react-native-community/eslint-config`. So install `eslint@5.16.0`.
