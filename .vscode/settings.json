@@ -4,8 +4,8 @@
   "[javascript]": {
     "editor.formatOnSave": false,
   },
-  "typescript.validate.enable": true,
-  "javascript.validate.enable": true,
+  "typescript.validate.enable": false,
+  "javascript.validate.enable": false,
   // available through eslint plugin in vscode
   "eslint.autoFixOnSave": true,
   "eslint.alwaysShowStatus": true,
