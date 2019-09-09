@@ -1,6 +1,12 @@
-# react native eslint prettier starter
+# React Native Eslint Prettier Starter
 
-## npx react-native init YourProject
+## Create React Native Project
+
+Reference [React Native CLI QuickStart](https://facebook.github.io/react-native/docs/getting-started)
+
+```
+npx react-native init YourProject
+```
 
 ## ESLint
 
